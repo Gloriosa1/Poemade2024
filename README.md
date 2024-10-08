@@ -25,7 +25,6 @@ projeto2024
     A rosa radioativa<br>
     Estúpida e inválida</p>
     A rosa com cirrose<br>
-   <br>
     <p>A antirrosa atômica<br>
     Sem cor sem perfume<br>
     Sem rosa sem nada.</p>
