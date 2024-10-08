@@ -24,7 +24,7 @@ projeto2024
     A rosa hereditária<br>
     A rosa radioativa<br>
     Estúpida e inválida</p>
-    A rosa com cirrose<br>
+    A rosa com cirrose <br>
     <p>A antirrosa atômica<br>
     Sem cor sem perfume<br>
     Sem rosa sem nada.</p>
